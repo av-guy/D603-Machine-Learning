@@ -1,0 +1,11 @@
+name: ml-scratch-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - mlxtend
